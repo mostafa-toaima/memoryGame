@@ -80,7 +80,7 @@ body {
     transform: rotateY(180deg);
 }
 
-.memory-blocks-container .game-block .back .svg-inline {
+.memory-blocks-container .game-block .back svg {
     font-size: 75px;
     margin-top: 11px;
 }
